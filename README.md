@@ -1,2 +1,2 @@
-# [trbradley.github.io](trbradley.github.io)
+# [trbradley.github.io](https://trbradley.github.io)
 Personal Website
